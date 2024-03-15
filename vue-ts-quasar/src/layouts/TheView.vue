@@ -1,7 +1,4 @@
-<script setup lang="ts">
-  import TheHeader from 'vue-ts-quasar/src/layouts/TheHeader.vue'
-  import TheView from 'vue-ts-quasar/src/layouts/TheView.vue'
-</script>
+<script setup lang="ts"></script>
 
 <template>
 	<div>
